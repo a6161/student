@@ -1,1 +1,1 @@
-185.199.111.133
+加速：右击开始，以管理员运行。输入 notepad C:\Windows\System32\drivers\etc\hosts      回车，修改保存即可
